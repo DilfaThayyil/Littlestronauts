@@ -1,0 +1,17 @@
+{
+  "name": "catstronauts-server-complete",
+  "version": "1.0.0",
+  "description": "back-end demo app for Apollo's lift-off course",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "dotenv": "^16.0.0",
+    "nodemon": "^3.0.1"
+  },
+  "author": "Raphael Terrier @R4ph-t",
+  "license": "MIT",
+  "private": true
+}
